@@ -33,5 +33,6 @@ Le professeur a proposé l'idée de départ, les élèves seront les acteur
   <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
   
   <script>
+	swal()
 	swal("Bienvenue!", "Vous voilà sur la page d'accueil du projet CHARGEUR SOLAIRE INTELLIGENT, "success");
   </script>
