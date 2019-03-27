@@ -30,20 +30,43 @@ Le professeur a proposé l'idée de départ, les élèves seront les acteur
 
 <footer>Tous droits réservés - Concours C.Génial 2019 (c) - Eli Gold</footer>
 
-<style>
+  <style>
 	footer {
 	background-color: dark-grey;
 	}	
-</style>
-<style>
+  </style>
+  <style>
 	.swal-text {
 	text-align: center;
 	}
-</style>
+  </style>
 
   <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
   
   <script>
-	swal()
-	swal("Bienvenue!", "Projet Chargeur Solaire Intelligent", "success");
+	swal("Bienvenue ! \n\n Chargeur Solaire Intelligent", {
+  buttons: {
+    cancel: "Ok",
+    catch: {
+      text: "Plus d\'Infos",
+      value: "catch",
+    },
+    Contact: true,
+  },
+})
+.then((value) => {
+  switch (value) {
+ 
+    case "Contact":
+      swal("Adresse mail : ", "cgenial@ecole-alsacienne.org");
+      break;
+ 
+    case "catch":
+      swal("Plus d\'Informations!", "url compte rendu pdf", "info");
+      break;
+ 
+    default:
+      break;
+  }
+});
   </script>
