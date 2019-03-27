@@ -26,7 +26,7 @@ Le dimensionnement de la chaine énergétique se fera en considérant qu'un j
 ### Implication envisagée des élèves 
 Le professeur a proposé l'idée de départ, les élèves seront les acteurs principaux de tout le reste du projet.
 
-
+![liste élèves participants](https://raw.githubusercontent.com/EA-cGenial/chargeur-solaire-intelligent/master/%C3%A9l%C3%A8ves%20participants%20-%20cgenial.PNG)
 
 
 
