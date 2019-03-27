@@ -24,39 +24,5 @@ Ce projet consiste en la conception et la réalisation d'un chargeur solaire au
 Le dimensionnement de la chaine énergétique se fera en considérant qu'un jour de charge devrait permettre l'usage d'un téléphone. Les aspects mécaniques feront exclusivement appel à l'impression 3D. Le contrôle sera assuré par un programme Arduino prenant en compte les mesures des photo-résistances. Le tout sera alimenté par la batterie.
 		 	 	 		
 								
-Implication envisagée des élèves 
+### Implication envisagée des élèves 
 Le professeur a proposé l'idée de départ, les élèves seront les acteurs principaux de tout le reste du projet.
-
-
-
-Classe
-Nom
-Prénom
-4e1
-Dupont-Barnich
-Isura
-Duplouy
-Léna
-Kuge
-Ilona
-Lacluque
-Jeanne
-4e2
-
-
-
-
-Hariri-Gautier-Picard
-Grégoire
-
-
-
-
-Berta
-Ambre
-4e5
-Donnart
-Matthieu
-
-
- 
