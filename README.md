@@ -34,5 +34,5 @@ Le professeur a proposé l'idée de départ, les élèves seront les acteur
   
   <script>
 	swal()
-	swal("Bienvenue!", "Vous voilà sur la page d'accueil du projet CHARGEUR SOLAIRE INTELLIGENT", "success");
+	swal("Bienvenue!", "Projet Chargeur Solaire Intelligent", "success");
   </script>
