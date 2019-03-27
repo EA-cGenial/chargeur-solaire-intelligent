@@ -28,7 +28,13 @@ Le professeur a proposé l'idée de départ, les élèves seront les acteur
 
 ![liste élèves participants](https://raw.githubusercontent.com/EA-cGenial/chargeur-solaire-intelligent/master/%C3%A9l%C3%A8ves%20participants%20-%20cgenial.PNG)
 
+<footer>C.Génial 2019 (c) - Eli Gold</footer>
 
+<style>
+	footer{
+	background-color: dark-grey,
+	}
+</style>
 
   <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
   
