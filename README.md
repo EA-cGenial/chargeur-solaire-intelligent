@@ -1,11 +1,12 @@
 # Panneau Solaire Concours C.Génial 2019 - [Ecole Alsacienne](http://ecole-alsacienne.org)
-
+[//]: # (
 <--!
   <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
   <script>
 	swal("Bienvenue!", "Vous voilà sur la page d'accueil du projet CHARGEUR SOLAIRE INTELLIGENT, "success");
   </script>
 -->
+)
 
 ## Chargeur solaire intelligent 
 
