@@ -75,6 +75,8 @@ Le professeur a proposé l'idée de départ, les élèves seront les acteur
   </div>
 </div>
 
+<link rel="icon" type="image/png" href="https://inscriptions.ecole-alsacienne.org/wp-content/uploads/sites/13/2017/11/cropped-logo-ea-couleur-2.png" />
+
 <footer>Tous droits réservés - Concours C.Génial 2019 (c) - Eli Gold</footer>
 
   <style>
