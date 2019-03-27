@@ -31,8 +31,13 @@ Le professeur a proposé l'idée de départ, les élèves seront les acteur
 <footer>Tous droits réservés - Concours C.Génial 2019 (c) - Eli Gold</footer>
 
 <style>
-	footer{
-	background-color: dark-grey,
+	footer {
+	background-color: dark-grey;
+	}	
+</style>
+<style>
+	.swal-text {
+	text-align: center;
 	}
 </style>
 
