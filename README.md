@@ -1,10 +1,5 @@
 # Panneau Solaire Concours C.Génial 2019 - [Ecole Alsacienne](http://ecole-alsacienne.org)
 
-  <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
-  <script>
-	swal("Bienvenue!", "Vous voilà sur la page d'accueil du projet CHARGEUR SOLAIRE INTELLIGENT, "success");
-  </script>
-
 ## Chargeur solaire intelligent 
 
 ### Contexte scientifique du projet 
@@ -30,3 +25,12 @@ Le dimensionnement de la chaine énergétique se fera en considérant qu'un j
 								
 ### Implication envisagée des élèves 
 Le professeur a proposé l'idée de départ, les élèves seront les acteurs principaux de tout le reste du projet.
+
+
+
+
+
+  <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+  <script>
+	swal("Bienvenue!", "Vous voilà sur la page d'accueil du projet CHARGEUR SOLAIRE INTELLIGENT, "success");
+  </script>
