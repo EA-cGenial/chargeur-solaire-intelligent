@@ -1,6 +1,3 @@
-{% include head.html %}
-{% seo %}
-
 # Panneau Solaire Concours C.Génial 2019 - [Ecole Alsacienne](http://ecole-alsacienne.org)
 
 ## Chargeur solaire intelligent 
